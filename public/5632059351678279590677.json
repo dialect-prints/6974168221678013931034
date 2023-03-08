@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992404666349",
+    "project_id": "paperdoll-tocaboca",
+    "storage_bucket": "paperdoll-tocaboca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992404666349:android:601a2fc6a346ca229699e4",
+        "android_client_info": {
+          "package_name": "com.papercreative.tocalifepaperdollcollections"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992404666349-of3bbt80oh46tabg0h8426pg8keshfde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsFNL5cuFxlQJgII0l3E_M-DSuZRu_UvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992404666349-of3bbt80oh46tabg0h8426pg8keshfde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
