@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935879801634",
+    "project_id": "muslimpedia-app",
+    "storage_bucket": "muslimpedia-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935879801634:android:c9255c0afc6af51cd3837b",
+        "android_client_info": {
+          "package_name": "com.ramadhan.suarasahurtakbiranlucu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935879801634-k8p6as98478ivkiv2egekfb47010lr16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6TJtRJM183ey2Rp-xLd8l2d3aUXo7u8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935879801634-k8p6as98478ivkiv2egekfb47010lr16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
